@@ -9,8 +9,7 @@ Welcome to my personal portfolio! This website showcases my skills, projects, an
 4. [Installation Instructions](#installation-instructions)
 5. [Usage](#usage)
 6. [Live Demo](#live-demo)
-7. [License](#license)
-8. [Contact](#contact)
+7. [Contact](#contact)
 
 ## Project Overview
 This portfolio website was created to showcase my skills, projects, and experiences as a developer. It provides a detailed view of my technical expertise, my work history, and contact information. The site is designed with responsiveness in mind and is fully optimized for mobile, tablet, and desktop views.
@@ -21,7 +20,7 @@ The project contains the following sections:
 - **Projects**: A showcase of selected projects with descriptions, links to live demos, and GitHub repositories.
 - **Skills**: A list of the technologies I am proficient in.
 - **Contact**: Information on how to reach me and a contact form.
-- **Resume**: A downloadable version of my resume *(optional)*.
+- **Resume**: A downloadable version of my resume 1.
 
 ## Technologies Used
 This project uses a variety of technologies to create a responsive, interactive, and visually appealing website:
@@ -65,12 +64,8 @@ To run this project locally on your machine, follow the steps below:
 You can view the live version of the portfolio at the following URL:  
 [https://wizerdy44.github.io](https://wizerdy44.github.io)
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 Feel free to reach out to me:
 - Email: [ombasazedeck@gmail.com](mailto:ombasazedeck@gmail.com)
-- LinkedIn: [https://linkedin.com/in/zedeck-ombasa](https://linkedin.com/in/zedeck-ombasa)
 - GitHub: [https://github.com/wizerdy44](https://github.com/wizerdy44)
 ---
